@@ -1,5 +1,4 @@
-import React from 'react';
-import State from "../src/component/State"
+import State from "../src/component/States"
 
 const App = () => {
   return (
